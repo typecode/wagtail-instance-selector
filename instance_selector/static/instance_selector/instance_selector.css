@@ -1,3 +1,7 @@
+.is-instance-selector-embed .wrapper {
+    padding-left: 0;
+}
+
 .is-instance-selector-embed .nav-wrapper {
     display: none;
 }
