@@ -4,7 +4,7 @@ install_requires = ["wagtail>=2.15"]
 
 setup(
     name="wagtail-instance-selector",
-    version="2.1.4",
+    version="2.1.5",
     packages=["instance_selector"],
     include_package_data=True,
     description="A widget for Wagtail's admin that allows you to create and select related items",
